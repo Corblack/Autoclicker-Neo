@@ -37,6 +37,8 @@ pip install pynput
 python autoclicker_neo.py
 ```
 
+ou alors lancer le .exe dans le rep 'dist'
+
 Une fenêtre s’ouvre avec tous les contrôles nécessaires.
 
 ---

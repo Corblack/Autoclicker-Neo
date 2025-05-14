@@ -51,12 +51,6 @@ Une fenêtre s’ouvre avec tous les contrôles nécessaires.
 
 ---
 
-## 📸 Aperçu
-
-*(Ajoutez une capture d’écran ici si disponible)*
-
----
-
 ## 🧠 Remarques
 
 - Utilise ce logiciel de manière responsable.
@@ -72,5 +66,5 @@ Ce projet est libre d’utilisation et de modification. Tu peux l'adapter à ta 
 
 ## 👤 Auteur
 
-Développé par **[Johann Paimboeuf]**  
+Développé par **Johann Paimboeuf**  
 Site web : [https://johannpmbf.fr](https://johannpmbf.fr)
